@@ -17,7 +17,7 @@
 `conda`を使用して以下のように仮想環境を作成してください（Python 3.9.21で動作確認済み）：
 
 ```bash
-conda create -n object_removal_env python=3.8 -y
+conda create -n object_removal_env python=3.9 -y
 conda activate object_removal_env
 ```
 
